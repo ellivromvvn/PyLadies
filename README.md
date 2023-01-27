@@ -1,2 +1,2 @@
-# PyLadies
-My Meetup with PyLadies
+# RLadies
+My Meetup with RLadies
